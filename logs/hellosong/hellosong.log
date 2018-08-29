@@ -1,0 +1,36 @@
+ERROR [2018-08-26 14:40:07] C:\Users\heguo\workspace\framework\framework\account\http.py 56 _http_request 23600 22768 
+ 	 login http request error! type: GET, url: http://paas.blueking.com/app/info/hellosong//login/accounts/is_login/, data: {'bk_token': 'JqMuNn79YXreQWUpIWLjcOcy1mnyvoz6LicvhTNqVo8'}, response_status_code: 404, response_content: <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" c 
+
+INFO [2018-08-26 14:40:07] C:\Users\heguo\workspace\framework\framework\account\accounts.py 91 verify_bk_login 23600 22768 
+ 	 验证用户登录token无效： 
+
+ERROR [2018-08-26 14:40:15] C:\Users\heguo\workspace\framework\framework\account\http.py 56 _http_request 23600 35344 
+ 	 login http request error! type: GET, url: http://paas.blueking.com/app/info/hellosong//login/accounts/is_login/, data: {'bk_token': 'JqMuNn79YXreQWUpIWLjcOcy1mnyvoz6LicvhTNqVo8'}, response_status_code: 404, response_content: <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" c 
+
+INFO [2018-08-26 14:40:15] C:\Users\heguo\workspace\framework\framework\account\accounts.py 91 verify_bk_login 23600 35344 
+ 	 验证用户登录token无效： 
+
+ERROR [2018-08-26 14:40:23] C:\Users\heguo\workspace\framework\framework\account\http.py 56 _http_request 23600 30804 
+ 	 login http request error! type: GET, url: http://paas.blueking.com/app/info/hellosong//login/accounts/is_login/, data: {'bk_token': 'JqMuNn79YXreQWUpIWLjcOcy1mnyvoz6LicvhTNqVo8'}, response_status_code: 404, response_content: <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" c 
+
+INFO [2018-08-26 14:40:23] C:\Users\heguo\workspace\framework\framework\account\accounts.py 91 verify_bk_login 23600 30804 
+ 	 验证用户登录token无效： 
+
+ERROR [2018-08-26 14:41:49] C:\Users\heguo\workspace\framework\framework\account\http.py 56 _http_request 23600 35424 
+ 	 login http request error! type: GET, url: http://paas.blueking.com/app/info/hellosong//login/accounts/is_login/, data: {'bk_token': 'JqMuNn79YXreQWUpIWLjcOcy1mnyvoz6LicvhTNqVo8'}, response_status_code: 404, response_content: <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" c 
+
+INFO [2018-08-26 14:41:49] C:\Users\heguo\workspace\framework\framework\account\accounts.py 91 verify_bk_login 23600 35424 
+ 	 验证用户登录token无效： 
+
